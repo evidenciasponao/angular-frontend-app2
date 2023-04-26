@@ -1,0 +1,37 @@
+.banner{
+    height: 120px;
+    background-color: rgba(255, 255, 255, 0.966);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.body{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.banner2{
+    padding-left: 40px;
+    padding-right: 40px;
+    opacity: 70%;
+}
+.history{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.parrafo{
+    text-align: justify;
+}
+.footer{
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+}
+.profile{
+    border-radius: 50%;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+}
+.profile-text{
+    text-align: center;
+}
